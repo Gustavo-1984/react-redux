@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "name": "Pan",
+      "price": 300,
+      "id": 6
+    },
+    {
+      "name": "Pan",
+      "price": 25,
+      "id": 7
+    },
+    {
+      "name": "Pan",
+      "price": 3,
+      "id": 8
+    },
+    {
+      "name": "Pan",
+      "price": 12,
+      "id": 9
+    },
+    {
+      "name": "Pan",
+      "price": 3,
+      "id": 10
+    },
+    {
+      "name": "Pan",
+      "price": 122,
+      "id": 11
+    },
+    {
+      "name": "",
+      "id": 12
+    },
+    {
+      "name": "Jugo de naranja",
+      "price": 235,
+      "id": 13
+    }
+  ]
+}
